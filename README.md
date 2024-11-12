@@ -10,3 +10,6 @@ I also added face mesh, and it is triggered only when I'm showing back of my han
 
 ![hand detection](https://user-images.githubusercontent.com/20543988/189307964-20982f7b-e9e4-4384-b0f8-8f994c3c5434.png)
 ![hand detection](https://user-images.githubusercontent.com/20543988/189308245-ccf5efb9-fb88-4174-99fe-6c880afaaeb5.png)
+
+Just show the back side of your hand and see how things change!
+Have fun :)
